@@ -28,7 +28,7 @@ const logInputCurrentTimeAndWeather = (locationsInput) =>{
 
 const locationsInput = ['New York', 10005, 'Tokyo', 'São Paulo', 'Pluto']
 // const locationsInput = [10005]
-logArrayInputCurrentTimeAndWeather(locationsInput)
+logInputCurrentTimeAndWeather(locationsInput)
 
 
 
