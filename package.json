@@ -1,0 +1,9 @@
+{
+  "name": "invisibleTechJSTest",
+  "version": "1.0.0",
+  "description": "A simple JavaScript test to log current time and weather of an array input",
+  "main": "index.js",
+  "repository": "git@github.com:devamaz/invisibleTechJSTest.git",
+  "author": "devamaz <ahmad.abdulaziz37@gmail.com>",
+  "license": "MIT"
+}
